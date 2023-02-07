@@ -1,5 +1,6 @@
 ----
 # Advanced Python
+
 ----
 
 Techniques to improve your Python code.
