@@ -1,0 +1,5 @@
+[2023-01-31 14:25:14] [   DEBUG] --- this is a DEBUG message (logs.py:21)
+[2023-01-31 14:25:14] [    INFO] --- this is an INFO message (logs.py:22)
+[2023-01-31 14:25:14] [ WARNING] --- this is a WARNING message (logs.py:23)
+[2023-01-31 14:25:14] [   ERROR] --- this is an ERROR message (logs.py:24)
+[2023-01-31 14:25:14] [CRITICAL] --- this is a CRITCAL message (logs.py:25)
